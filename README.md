@@ -55,8 +55,8 @@ Um sistema web moderno para localização e navegação até unidades de saúde,
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/sans-script/the-lus-project.git
-cd the-lus-project
+git clone https://github.com/sans-script/LUS.git
+cd LUS
 ```
 
 ### 2. Instale as dependências
