@@ -1,5 +1,7 @@
 # LUS - Localizador de Unidades de Saúde
 
+> **About this repository.** LUS was built by a team during the Trilhas Inova hackathon (challenge 5; the team's original repository is `KayroBrasil/desafio5_trilhas2B_frontend`). This copy is kept by Alexandre Santos, who made the fixes listed in its history (favorites button not refreshing, error handling and general fixes). It needs a separate backend API, configured with `NEXT_PUBLIC_API_BASE_URL`.
+
 Um sistema web moderno para localização e navegação até unidades de saúde, desenvolvido com Next.js 15, TypeScript e integração com Google Maps. O LUS permite aos usuários encontrar rapidamente unidades de saúde próximas, visualizar informações detalhadas e gerenciar favoritos.
 
 ## ✨ Características Principais
@@ -53,7 +55,8 @@ Um sistema web moderno para localização e navegação até unidades de saúde,
 ### 1. Clone o repositório
 
 ```bash
-git clone git@github.com:KayroBrasil/desafio5_trilhas2B_frontend.git cd the-lus-project
+git clone https://github.com/sans-script/the-lus-project.git
+cd the-lus-project
 ```
 
 ### 2. Instale as dependências
